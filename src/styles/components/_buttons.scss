@@ -4,6 +4,10 @@
 // This file contains all styles related to the button component.
 // -----------------------------------------------------------------------------
 
+.btn {
+  transition: all .3s ease-in-out;
+}
+
 .btn-primary {
   color: black;
   text-transform: uppercase;
